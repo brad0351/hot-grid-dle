@@ -42,22 +42,3 @@ figcaption {
   padding: 1rem;
   max-width: 15em;
 }
-/*
-figure {
-  position: relative;
-  margin: 0;
-}
-
-figcaption {
-  position: absolute;
-  left: .5em;
-  bottom: .5em;
-  color: #fff;
-  background-color: rgba(0, 0, 0, 0.5);
-
-
-  padding: .5rem;
-  border-radius: 8px;
-  max-width: 15em;
-}
-*/
